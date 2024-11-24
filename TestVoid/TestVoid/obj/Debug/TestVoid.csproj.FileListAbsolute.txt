@@ -1,0 +1,7 @@
+C:\repos\learn\HeadFirst\TestVoid\TestVoid\bin\Debug\TestVoid.exe.config
+C:\repos\learn\HeadFirst\TestVoid\TestVoid\bin\Debug\TestVoid.exe
+C:\repos\learn\HeadFirst\TestVoid\TestVoid\bin\Debug\TestVoid.pdb
+C:\repos\learn\HeadFirst\TestVoid\TestVoid\obj\Debug\TestVoid.csproj.AssemblyReference.cache
+C:\repos\learn\HeadFirst\TestVoid\TestVoid\obj\Debug\TestVoid.csproj.CoreCompileInputs.cache
+C:\repos\learn\HeadFirst\TestVoid\TestVoid\obj\Debug\TestVoid.exe
+C:\repos\learn\HeadFirst\TestVoid\TestVoid\obj\Debug\TestVoid.pdb
