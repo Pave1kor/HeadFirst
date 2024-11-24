@@ -1,0 +1,7 @@
+G:\Николай\repos\HeadFirst\AbilityScoreCalculated\AbilityScoreCalculated\obj\Debug\AbilityScoreCalculated.csproj.AssemblyReference.cache
+G:\Николай\repos\HeadFirst\AbilityScoreCalculated\AbilityScoreCalculated\obj\Debug\AbilityScoreCalculated.csproj.CoreCompileInputs.cache
+G:\Николай\repos\HeadFirst\AbilityScoreCalculated\AbilityScoreCalculated\bin\Debug\AbilityScoreCalculated.exe.config
+G:\Николай\repos\HeadFirst\AbilityScoreCalculated\AbilityScoreCalculated\bin\Debug\AbilityScoreCalculated.exe
+G:\Николай\repos\HeadFirst\AbilityScoreCalculated\AbilityScoreCalculated\bin\Debug\AbilityScoreCalculated.pdb
+G:\Николай\repos\HeadFirst\AbilityScoreCalculated\AbilityScoreCalculated\obj\Debug\AbilityScoreCalculated.exe
+G:\Николай\repos\HeadFirst\AbilityScoreCalculated\AbilityScoreCalculated\obj\Debug\AbilityScoreCalculated.pdb

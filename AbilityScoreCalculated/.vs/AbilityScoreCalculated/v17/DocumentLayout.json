@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\AbilityScoreCalculated\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB897D05-3D06-426A-9A0C-F9F9B8D39FDF}|AbilityScoreCalculated\\AbilityScoreCalculated.csproj|g:\\\u043D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\headfirst\\abilityscorecalculated\\abilityscorecalculated\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB897D05-3D06-426A-9A0C-F9F9B8D39FDF}|AbilityScoreCalculated\\AbilityScoreCalculated.csproj|solutionrelative:abilityscorecalculated\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 1267,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 86,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\AbilityScoreCalculated\\AbilityScoreCalculated\\Program.cs",
+              "RelativeDocumentMoniker": "AbilityScoreCalculated\\Program.cs",
+              "ToolTip": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\AbilityScoreCalculated\\AbilityScoreCalculated\\Program.cs",
+              "RelativeToolTip": "AbilityScoreCalculated\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwEkAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-24T16:57:37.243Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 383,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

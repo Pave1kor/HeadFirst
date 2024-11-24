@@ -5,3 +5,10 @@ C:\repos\learn\HeadFirst\TestVoid\TestVoid\obj\Debug\TestVoid.csproj.AssemblyRef
 C:\repos\learn\HeadFirst\TestVoid\TestVoid\obj\Debug\TestVoid.csproj.CoreCompileInputs.cache
 C:\repos\learn\HeadFirst\TestVoid\TestVoid\obj\Debug\TestVoid.exe
 C:\repos\learn\HeadFirst\TestVoid\TestVoid\obj\Debug\TestVoid.pdb
+G:\Николай\repos\HeadFirst\TestVoid\TestVoid\bin\Debug\TestVoid.exe.config
+G:\Николай\repos\HeadFirst\TestVoid\TestVoid\bin\Debug\TestVoid.exe
+G:\Николай\repos\HeadFirst\TestVoid\TestVoid\bin\Debug\TestVoid.pdb
+G:\Николай\repos\HeadFirst\TestVoid\TestVoid\obj\Debug\TestVoid.csproj.AssemblyReference.cache
+G:\Николай\repos\HeadFirst\TestVoid\TestVoid\obj\Debug\TestVoid.csproj.CoreCompileInputs.cache
+G:\Николай\repos\HeadFirst\TestVoid\TestVoid\obj\Debug\TestVoid.exe
+G:\Николай\repos\HeadFirst\TestVoid\TestVoid\obj\Debug\TestVoid.pdb
