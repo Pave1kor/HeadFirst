@@ -1,0 +1,94 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pavel\\Desktop\\YandexDisk\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Head first. \u0418\u0437\u0443\u0447\u0430\u0435\u043C \u0421#\\PickACardUI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A100FD47-EC7E-47AB-AF87-45A4ADAE7A5A}|PickACardUI\\PickACardUI.csproj|C:\\Users\\pavel\\Desktop\\YandexDisk\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Head first. \u0418\u0437\u0443\u0447\u0430\u0435\u043C \u0421#\\PickACardUI\\pickacardui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A100FD47-EC7E-47AB-AF87-45A4ADAE7A5A}|PickACardUI\\PickACardUI.csproj|solutionrelative:pickacardui\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A100FD47-EC7E-47AB-AF87-45A4ADAE7A5A}|PickACardUI\\PickACardUI.csproj|C:\\Users\\pavel\\Desktop\\YandexDisk\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Head first. \u0418\u0437\u0443\u0447\u0430\u0435\u043C \u0421#\\PickACardUI\\pickacardui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A100FD47-EC7E-47AB-AF87-45A4ADAE7A5A}|PickACardUI\\PickACardUI.csproj|solutionrelative:pickacardui\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A100FD47-EC7E-47AB-AF87-45A4ADAE7A5A}|PickACardUI\\PickACardUI.csproj|c:\\users\\pavel\\desktop\\yandexdisk\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\head first. \u0438\u0437\u0443\u0447\u0430\u0435\u043C \u0441#\\pickacardui\\pickacardui\\cardpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A100FD47-EC7E-47AB-AF87-45A4ADAE7A5A}|PickACardUI\\PickACardUI.csproj|solutionrelative:pickacardui\\cardpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1735,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CardPicker.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\Desktop\\YandexDisk\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Head first. \u0418\u0437\u0443\u0447\u0430\u0435\u043C \u0421#\\PickACardUI\\PickACardUI\\CardPicker.cs",
+              "RelativeDocumentMoniker": "PickACardUI\\CardPicker.cs",
+              "ToolTip": "C:\\Users\\pavel\\Desktop\\YandexDisk\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Head first. \u0418\u0437\u0443\u0447\u0430\u0435\u043C \u0421#\\PickACardUI\\PickACardUI\\CardPicker.cs",
+              "RelativeToolTip": "PickACardUI\\CardPicker.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:52:14.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\pavel\\Desktop\\YandexDisk\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Head first. \u0418\u0437\u0443\u0447\u0430\u0435\u043C \u0421#\\PickACardUI\\PickACardUI\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "PickACardUI\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\pavel\\Desktop\\YandexDisk\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Head first. \u0418\u0437\u0443\u0447\u0430\u0435\u043C \u0421#\\PickACardUI\\PickACardUI\\MainWindow.xaml",
+              "RelativeToolTip": "PickACardUI\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-20T09:51:19.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pavel\\Desktop\\YandexDisk\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Head first. \u0418\u0437\u0443\u0447\u0430\u0435\u043C \u0421#\\PickACardUI\\PickACardUI\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "PickACardUI\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\pavel\\Desktop\\YandexDisk\\\u0440\u0430\u0431\u043E\u0442\u0430\\\u043F\u0440\u043E\u0433\u0440\u0430\u043C\u043C\u0438\u0440\u043E\u0432\u0430\u043D\u0438\u0435\\Head first. \u0418\u0437\u0443\u0447\u0430\u0435\u043C \u0421#\\PickACardUI\\PickACardUI\\MainWindow.xaml.cs",
+              "RelativeToolTip": "PickACardUI\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-20T09:51:17.358Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 145,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 420,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

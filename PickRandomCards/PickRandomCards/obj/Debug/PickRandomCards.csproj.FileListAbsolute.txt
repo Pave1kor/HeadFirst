@@ -1,0 +1,7 @@
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\PickRandomCards\PickRandomCards\bin\Debug\PickRandomCards.exe.config
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\PickRandomCards\PickRandomCards\bin\Debug\PickRandomCards.exe
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\PickRandomCards\PickRandomCards\bin\Debug\PickRandomCards.pdb
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.csproj.AssemblyReference.cache
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.csproj.CoreCompileInputs.cache
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.exe
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\PickRandomCards\PickRandomCards\obj\Debug\PickRandomCards.pdb

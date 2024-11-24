@@ -1,0 +1,7 @@
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\Casino\Casino\bin\Debug\Casino.exe.config
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\Casino\Casino\bin\Debug\Casino.exe
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\Casino\Casino\bin\Debug\Casino.pdb
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\Casino\Casino\obj\Debug\Casino.csproj.AssemblyReference.cache
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\Casino\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\Casino\Casino\obj\Debug\Casino.exe
+D:\YandexDisk\работа\программирование\Head first. Изучаем С#\Casino\Casino\obj\Debug\Casino.pdb
