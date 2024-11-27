@@ -37,8 +37,7 @@ namespace TestRandom
                 if (i >= 0)
                 {
                     menuItems[i].Breads = new string[]
-                    {"Plain bagel", "onion bagel", "pumpernickel bagel", "everything bagel"
-                    };
+                    {"Plain bagel", "onion bagel", "pumpernickel bagel", "everything bagel" };
                 }
 
                 menuItems[i].Generate();
@@ -67,7 +66,7 @@ namespace TestRandom
             Menuitem guacamleMenuItem = new Menuitem();
             guacamleMenuItem.Generate();
             guacomolePrice = guacamleMenuItem.Price;
-            guacamole.Text = "Add guacamole for " + guacamleMenuItem.Price;
+            guacamole.Text = "Add guacamole for " + guacomolePrice;
         }
     }
 }

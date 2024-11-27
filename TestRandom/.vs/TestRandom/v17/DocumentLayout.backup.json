@@ -3,20 +3,26 @@
   "WorkspaceRootPath": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|g:\\\u043D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\headfirst\\testrandom\\testrandom\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|solutionrelative:testrandom\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|TestRandom||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\testrandom\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|solutionrelative:testrandom\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\testrandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|solutionrelative:testrandom\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|g:\\\u043D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\headfirst\\testrandom\\testrandom\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\testrandom\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|solutionrelative:testrandom\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|g:\\\u043D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\headfirst\\testrandom\\testrandom\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|solutionrelative:testrandom\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|g:\\\u043D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\headfirst\\testrandom\\testrandom\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|solutionrelative:testrandom\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{079A8555-D7A5-4C4E-A408-C8B895CDE4D6}|TestRandom\\TestRandom.csproj|g:\\\u043D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\headfirst\\testrandom\\testrandom\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,19 +41,31 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "TestRandom",
+              "DocumentMoniker": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\TestRandom\\TestRandom.csproj",
+              "RelativeDocumentMoniker": "TestRandom\\TestRandom.csproj",
+              "ToolTip": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\TestRandom\\TestRandom.csproj*",
+              "RelativeToolTip": "TestRandom\\TestRandom.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-11-27T18:44:08.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Menu.xaml.cs",
               "DocumentMoniker": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\TestRandom\\Menu.xaml.cs",
               "RelativeDocumentMoniker": "TestRandom\\Menu.xaml.cs",
-              "ToolTip": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\TestRandom\\Menu.xaml.cs",
-              "RelativeToolTip": "TestRandom\\Menu.xaml.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAQwEQAAAA0AAAAAAAAAA==",
+              "ToolTip": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\TestRandom\\Menu.xaml.cs*",
+              "RelativeToolTip": "TestRandom\\Menu.xaml.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T17:07:53.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Menu.xaml",
               "DocumentMoniker": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\TestRandom\\Menu.xaml",
               "RelativeDocumentMoniker": "TestRandom\\Menu.xaml",
@@ -59,26 +77,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MenuItem.cs",
               "DocumentMoniker": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\TestRandom\\MenuItem.cs",
               "RelativeDocumentMoniker": "TestRandom\\MenuItem.cs",
               "ToolTip": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\TestRandom\\MenuItem.cs",
               "RelativeToolTip": "TestRandom\\MenuItem.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T11:44:30.903Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\TestRandom\\Program.cs",
               "RelativeDocumentMoniker": "TestRandom\\Program.cs",
               "ToolTip": "G:\\\u041D\u0438\u043A\u043E\u043B\u0430\u0439\\repos\\HeadFirst\\TestRandom\\TestRandom\\Program.cs",
               "RelativeToolTip": "TestRandom\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA0AAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-27T11:39:10.459Z",
               "EditorCaption": ""
