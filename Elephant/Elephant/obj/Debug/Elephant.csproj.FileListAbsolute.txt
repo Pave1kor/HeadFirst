@@ -1,0 +1,7 @@
+C:\repos\learn\HeadFirst\Elephant\Elephant\bin\Debug\Elephant.exe.config
+C:\repos\learn\HeadFirst\Elephant\Elephant\bin\Debug\Elephant.exe
+C:\repos\learn\HeadFirst\Elephant\Elephant\bin\Debug\Elephant.pdb
+C:\repos\learn\HeadFirst\Elephant\Elephant\obj\Debug\Elephant.csproj.AssemblyReference.cache
+C:\repos\learn\HeadFirst\Elephant\Elephant\obj\Debug\Elephant.csproj.CoreCompileInputs.cache
+C:\repos\learn\HeadFirst\Elephant\Elephant\obj\Debug\Elephant.exe
+C:\repos\learn\HeadFirst\Elephant\Elephant\obj\Debug\Elephant.pdb

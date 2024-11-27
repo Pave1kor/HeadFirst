@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\learn\\HeadFirst\\Elephant\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{437DED15-8EBF-4AA3-81B2-DB2996F8FC78}|Elephant\\Elephant.csproj|c:\\repos\\learn\\headfirst\\elephant\\elephant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{437DED15-8EBF-4AA3-81B2-DB2996F8FC78}|Elephant\\Elephant.csproj|solutionrelative:elephant\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\repos\\learn\\HeadFirst\\Elephant\\Elephant\\Program.cs",
+              "RelativeDocumentMoniker": "Elephant\\Program.cs",
+              "ToolTip": "C:\\repos\\learn\\HeadFirst\\Elephant\\Elephant\\Program.cs",
+              "RelativeToolTip": "Elephant\\Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwv0MAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T08:11:07.236Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
