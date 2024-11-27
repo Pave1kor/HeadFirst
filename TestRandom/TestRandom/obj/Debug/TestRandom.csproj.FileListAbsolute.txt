@@ -1,0 +1,12 @@
+G:\Николай\repos\HeadFirst\TestRandom\TestRandom\bin\Debug\TestRandom.exe.config
+G:\Николай\repos\HeadFirst\TestRandom\TestRandom\bin\Debug\TestRandom.exe
+G:\Николай\repos\HeadFirst\TestRandom\TestRandom\bin\Debug\TestRandom.pdb
+G:\Николай\repos\HeadFirst\TestRandom\TestRandom\obj\Debug\TestRandom.csproj.AssemblyReference.cache
+G:\Николай\repos\HeadFirst\TestRandom\TestRandom\obj\Debug\menu.g.cs
+G:\Николай\repos\HeadFirst\TestRandom\TestRandom\obj\Debug\TestRandom_MarkupCompile.cache
+G:\Николай\repos\HeadFirst\TestRandom\TestRandom\obj\Debug\TestRandom_MarkupCompile.lref
+G:\Николай\repos\HeadFirst\TestRandom\TestRandom\obj\Debug\menu.baml
+G:\Николай\repos\HeadFirst\TestRandom\TestRandom\obj\Debug\TestRandom.g.resources
+G:\Николай\repos\HeadFirst\TestRandom\TestRandom\obj\Debug\TestRandom.csproj.CoreCompileInputs.cache
+G:\Николай\repos\HeadFirst\TestRandom\TestRandom\obj\Debug\TestRandom.exe
+G:\Николай\repos\HeadFirst\TestRandom\TestRandom\obj\Debug\TestRandom.pdb
